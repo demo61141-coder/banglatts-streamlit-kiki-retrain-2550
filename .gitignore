@@ -1,0 +1,6 @@
+# Never commit the model (114 MB > GitHub 100 MB limit) or the venv.
+model_cache/
+venv/
+__pycache__/
+*.log
+test_output.wav
